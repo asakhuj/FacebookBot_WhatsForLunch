@@ -1,0 +1,9 @@
+PAGE_ID=100113428126299
+APP_ID= 816252698791047
+PAGE_ACCESS_TOKEN=EAALmYKQojIcBAC8ZAkqpL7GwDi0FI3PFxZCjz2ZBhueUSL27tLBJSYdM8NUJprStHFluoFjTdTHUugRKdxjU6EBEfHxkdy8xGXkStBTyrnZAujvm0ufnqd13UaIdd2x2tVjVACtV6ZCbPIJmRjkQtZBNeZAPhpVxlF0yvQa3jCqybJdAkiAeaY6BEbGGeFcpmgZD
+APP_SECRET=12f3582b265b7add6aaa46f838b09d1a
+
+https://smart-seahorse-86.localtunnel.me
+https://obscure-tor-15150.herokuapp.com/
+
+https://obscure-tor-15150.herokuapp.com/profile?mode=all&verify_token=<VERIFY_TOKEN>
